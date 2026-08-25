@@ -1,4 +1,4 @@
-```md
+
 # Olá! Eu sou Guilherme 👋
 
 🎓 Estudante de Sistemas de Informação
@@ -10,4 +10,4 @@
 ## 📚 Currently Learning
 
 [![Currently Learning](https://skillicons.dev/icons?i=python,nodejs,docker,sql)](https://skillicons.dev)
-```
+
